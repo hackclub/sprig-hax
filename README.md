@@ -1,6 +1,7 @@
 # SPRIGHAX
 
 Hacking the sprig with experimental hardware and software features.
+
 Sprighax #1. Custom board, UART, & Gyro 
 
 
